@@ -12,3 +12,5 @@ let place // undefined
 let symbols // $ @ unique values
 
 console.table([num, Name, float, bool, bigInt, state, typeof state, place, symbols])
+
+// non primitive datatypes
