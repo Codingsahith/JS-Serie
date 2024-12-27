@@ -7,7 +7,8 @@ let anotherName = myName
 anotherName = "chintu"
 
 console.log(myName);
-console.log(anotherName);
+console.log(anotherName); 
+// output : 
 
 // heap
 
@@ -19,4 +20,5 @@ let userOne = {
 let userTwo = userOne
 userTwo.email="sahith@gmail.com"
 console.log(userTwo.email);
+console.log(userTwo);
 
