@@ -8,7 +8,8 @@ anotherName = "chintu"
 
 console.log(myName);
 console.log(anotherName); 
-// output : 
+// output : myName- sahith
+// output : anotherName- chintu
 
 // heap
 
@@ -22,3 +23,5 @@ userTwo.email="sahith@gmail.com"
 console.log(userOne.email);
 console.log(userTwo.email);
 
+// output : userOne.email - sahith@gmail.com
+// output : userTwo.email - sahith@gmail.com
