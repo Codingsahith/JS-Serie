@@ -9,7 +9,7 @@ anotherName = "chintu"
 console.log(myName);
 console.log(anotherName); 
 // output : myName- sahith
-// output : anotherName- chintu
+// output : anotherName- chintu .it will not changes the original value
 
 // heap
 
@@ -24,4 +24,4 @@ console.log(userOne.email);
 console.log(userTwo.email);
 
 // output : userOne.email - sahith@gmail.com
-// output : userTwo.email - sahith@gmail.com
+// output : userTwo.email - sahith@gmail.com . it changes the original value
