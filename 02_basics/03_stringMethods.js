@@ -24,7 +24,34 @@ let str = "sahith"
 let str1 = "  Monkey  "
 let newStr = str1.trim()
 
-console.log(newStr.toUpperCase())
-console.log(newStr.toLowerCase())
+// console.log(newStr.toUpperCase())
+// console.log(newStr.toLowerCase())
 
 // slice method
+let Name = "  sahith"
+// console.log(Name.trim().slice(0,4).toUpperCase())
+
+
+let str2 = "firelord"
+// console.log(str2.slice(4))
+// console.log(str2.slice(4,str2.length))
+
+let method = "sahithreddy"
+// console.log(method.slice(-2)) // it count from reverse as -1,-2
+
+
+// replace method 
+let str3 = "lovecoding"
+// console.log(str3.replace("love","do")) // it changes for temp 
+// console.log(str3)
+
+let you = "hi hello hello"
+// console.log(you.replace("hello","there")) // it replace only first occurance 
+
+
+// repeat method
+let me = "hi"
+console.log(me.repeat("3"))
+
+
+
