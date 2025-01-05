@@ -52,6 +52,3 @@ let you = "hi hello hello"
 // repeat method
 let me = "hi"
 console.log(me.repeat("3"))
-
-
-
